@@ -1,0 +1,11 @@
+rang,product_id,product_name,category,chiffre_affaires,nb_transactions,rating,stock
+1,P03826,Standard Camera 3826,Electronics,84331.02,23,4.5,955
+2,P01685,Elite Tablet 1685,Electronics,83446.63,34,2.8,340
+3,P04308,Essential Smartphone 4308,Electronics,82301.61,27,3.9,908
+4,P00354,Premium Laptop 354,Electronics,82130.7,31,3.9,13
+5,P05730,Premium Laptop 5730,Electronics,77818.27,29,3.1,131
+6,P04731,Pro Camera 4731,Electronics,77640.52,24,5.0,624
+7,P05854,Essential Camera 5854,Electronics,76460.5,20,3.5,138
+8,P04130,Premium Laptop 4130,Electronics,75402.86,28,5.0,207
+9,P00311,Elite Tablet 311,Electronics,75360.94,33,3.7,1066
+10,P00945,Elite Laptop 945,Electronics,74986.96,27,3.1,150
